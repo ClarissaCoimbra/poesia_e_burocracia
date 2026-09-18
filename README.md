@@ -72,6 +72,9 @@ As ACLs configuradas no roteador aplicam as seguintes regras:
 - Validação com ping, navegador web e resolução de nomes.
 
 
+## Execução
+
+Abra o arquivo `.pkt` no Cisco Packet Tracer. Para acessar os serviços por nome, mantenha `10.42.99.10` configurado como servidor DNS nos PCs autorizados.
 
 
 
@@ -168,7 +171,4 @@ Tem menos poesia Vogon do que parece, prometo!!!
 
 **Clarissa**
 
-## Execução
-
-Abra o arquivo `.pkt` no Cisco Packet Tracer. Para acessar os serviços por nome, mantenha `10.42.99.10` configurado como servidor DNS nos PCs autorizados.
 
