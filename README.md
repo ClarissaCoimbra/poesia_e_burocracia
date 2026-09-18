@@ -150,7 +150,7 @@ Os dois estão lá, ouvindo a **poesia Vogon**, como na mensagem que você vê n
 
 E estão tentando aguentar toda a tortura.
 
-Os Vogons, como bons burocratas, só se preocupam com suas próprias coisas e, portanto, só acessam o próprio domínio.
+Os Vogons, como bons burocratas, só se preocupam com suas próprias coisas e, portanto, não só escreveram a mensagem para os viajantes como também têm seu comunicado interno!
 
 Você pode ver a mensagem que eles acessam na imagem:
 
