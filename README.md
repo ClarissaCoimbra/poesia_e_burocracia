@@ -149,7 +149,7 @@ Então, você imagina em que sinuca de bico os dois protagonistas se encontram.
 
 Os dois estão lá, ouvindo a **poesia Vogon**, como na mensagem que você vê na imagem:
 
-`arthur-dent_access.png`
+`arthur_access.png`
 
 E estão tentando aguentar toda a tortura.
 
