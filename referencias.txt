@@ -1,23 +1,88 @@
-AH, PORQUÊ ESCOLHER VOGONS??????
+# AH, PORQUÊ ESCOLHER VOGONS??????
 
-¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨ NÃO ENTRE EM PÂNICO!! ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+> ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+>
+> **NÃO ENTRE EM PÂNICO!!**
+>
+> ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 
-A escolha para este projeto foi uma cena do primeiro livro da série do Guia do Mochileiro das Galáxias. Explico o contexto rapidinho abaixo:
+## Por que Vogons?
 
-Arthur Dent é amigo de Ford Perfect e descobre, em uma normal e completamente absurdo, que perderá sua casa, seu planeta e que seu amigo é um alienígena (também pudera, com o nome Ford Perfect!).
-Ambos tentam sair da Terra para não serem obliterados, os algozes são os Vogons, que anunciam com a voz mais cansada, repetitiva, burocrática e sacripanta possível que a Terra será demolida para ser feita uma obra na região e que eles já haviam protocolado todo o processo antes. Se os terráquios não responderam ao protocolo, não era problema Vogon: como bons burocratas que adoram criar pontes, prédios e coisas grandes de natureza estranha e não natural, iriam até o fim com a ação. Assim, para escapar, Arthur conta com os conhecimentos extraterrestres de seu amigo Ford e esse carrega consigo o Guia do Mochileiro das Galáxias. Esse guia é muito útil, tem na capa a mensagem importante e muito relevante: "NÃO ENTRE EM PÂNICO". Depois de algumas confusões de transporte para fora da Terra Arthur e Ford estão salvos, mas... estão dentro da nave Vogon! 
-Não vou dar mais spoiler da história, caso vc queira ler o livro. Só o que vc precisa saber daqui em diante é:
+A escolha para este projeto foi uma cena do primeiro livro da série do **Guia do Mochileiro das Galáxias**. Explico o contexto rapidinho abaixo:
 
-* Os vongons amam recitar sua poesia. Ela é chata, chatíssima, cansativa, repetitiva e qualquer distúrbio (nem a menor tossezinha é tolerada) faz com que o declamador recomece a leitura;
-* Ninguém consegue aguentar a poesia dos vogons, por isso é um ato obrigatório;
-* Arthur e Ford sofrem, infelizmente eles têm que ouvir a poesia, de camarote ainda por cima;
-* Os vogons amam, além de sua poesia cheia de rembimbotas da parafuseta, de burocracia, formulários, processos longos e muita, muita, muita mesmo, espera. Então, você imagina que sinuca de bico os dois protagonitas se encontram.
+Arthur Dent é amigo de Ford Perfect e descobre, em uma situação normal e completamente absurda, que perderá sua casa, seu planeta e que seu amigo é um alienígena.
 
-É nesse momento que o esquema que criei está: os dois estão lá, ouvindo a poesia Vogon, como na mensagem que você vê na imagem arthur-dent_access.png e estão tentando aguentar toda a tortura e os vogons, como bons burocratas, só se preocupam com suas próprias coisas, então só acessam o próprio domínio, vc pode ver a mensagem que eles acessam na imagem vogon_msg.png.
+*(Também pudera, com o nome Ford Perfect!)*
 
+Ambos tentam sair da Terra para não serem obliterados. Os algozes são os **Vogons**, que anunciam, com a voz mais cansada, repetitiva, burocrática e sacripanta possível, que a Terra será demolida para ser feita uma obra na região e que eles já haviam protocolado todo o processo antes.
 
-Aqui finaliza o contexto. Espero que vc ache legal essa referência e, se puder, dê uma lidinha no livro. Tem menos poesia vogon do que parece, prometo!!!
+Se os terráquios não responderam ao protocolo, não era problema Vogon.
 
-Até!!
+Como bons burocratas que adoram criar pontes, prédios e coisas grandes de natureza estranha e não natural, iriam até o fim com a ação.
 
-Clarissa
+Assim, para escapar, Arthur conta com os conhecimentos extraterrestres de seu amigo Ford, e este carrega consigo o **Guia do Mochileiro das Galáxias**.
+
+Esse guia é muito útil e tem na capa uma mensagem importante e muito relevante:
+
+> **"NÃO ENTRE EM PÂNICO".**
+
+Depois de algumas confusões de transporte para fora da Terra, Arthur e Ford estão salvos.
+
+Mas...
+
+**Estão dentro da nave Vogon!**
+
+---
+
+## E agora?
+
+Não vou dar mais spoiler da história, caso você queira ler o livro.
+
+Só o que você precisa saber daqui em diante é:
+
+- Os **Vogons amam recitar sua poesia**.
+  - Ela é chata.
+  - Chatíssima.
+  - Cansativa.
+  - Repetitiva.
+  - E qualquer distúrbio — nem a menor tossezinha é tolerada — faz com que o declamador recomece a leitura.
+
+- Ninguém consegue aguentar a poesia dos Vogons, por isso é um **ato obrigatório**.
+
+- Arthur e Ford sofrem.
+  - Infelizmente, eles têm que ouvir a poesia.
+  - De camarote ainda por cima.
+
+- Os Vogons amam, além de sua poesia cheia de *rembimbotas da parafuseta*, **burocracia, formulários, processos longos e muita, muita, muita mesmo, espera**.
+
+Então, você imagina em que sinuca de bico os dois protagonistas se encontram.
+
+---
+
+## Onde o projeto entra nisso?
+
+É nesse momento que o esquema que criei está situado.
+
+Os dois estão lá, ouvindo a **poesia Vogon**, como na mensagem que você vê na imagem:
+
+`arthur-dent_access.png`
+
+E estão tentando aguentar toda a tortura.
+
+Os Vogons, como bons burocratas, só se preocupam com suas próprias coisas e, portanto, só acessam o próprio domínio.
+
+Você pode ver a mensagem que eles acessam na imagem:
+
+`vogon_msg.png`
+
+---
+
+## E aqui termina o contexto!
+
+Espero que você ache legal essa referência e, se puder, dê uma lidinha no livro.
+
+Tem menos poesia Vogon do que parece, prometo!!!
+
+**Até!!**
+
+**Clarissa**
