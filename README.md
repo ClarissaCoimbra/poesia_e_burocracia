@@ -1,6 +1,6 @@
 # Burocracia e Poesia — Projeto de Redes
 
-Projeto desenvolvido no Cisco Packet Tracer, inspirado em *O Guia do Mochileiro das Galáxias*. A rede simula a infraestrutura do Restaurante no Fim do Universo, com segmentação por VLANs, roteamento inter-VLAN, serviços HTTP e DNS, além de regras de controle de acesso. Para mais detalhes da referência do livro usada neste projeto, acesse o arquivo referencias.txt
+Projeto desenvolvido no Cisco Packet Tracer, inspirado em *O Guia do Mochileiro das Galáxias*. A rede simula a infraestrutura de acesso em um contexto de nave Vogon, com segmentação por VLANs, roteamento inter-VLAN, serviços HTTP e DNS, além de regras de controle de acesso. Para mais detalhes da referência do livro usada neste projeto, acesse o arquivo referencias.txt
 
 ## Topologia
 
